@@ -1,0 +1,10 @@
+{
+  "name": "nightwatch_imgur_example",
+  "version": "0.0.1",
+  "description": "Simple example of testing imgur with nightwatch",
+  "author": "Christopher Brenner",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "nightwatch": "^0.9.19"
+  }
+}
